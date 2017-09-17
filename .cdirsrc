@@ -1,0 +1,5 @@
+###################################################
+#   system config                                 #
+###################################################
+#gmpy_cdirs_default="${HOME}/.cdirs_default"
+#gmpy_cdirs_find_default_depth=2
